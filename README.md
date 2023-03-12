@@ -3,9 +3,7 @@
 This is a clone of Ypoutube site, using their API to bring videos and using Redux Toolkit to manage state. The project is in Typescript, React, and Tailwind for UI.
 
 
-## Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
